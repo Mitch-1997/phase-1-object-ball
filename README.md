@@ -48,7 +48,7 @@ Use the following data to populate your `gameObject` as outlined above.
 Home Team:
 
 - Team name: Brooklyn Nets
-- Colors: Black, White
+- Colors:Black, White 
 - Players:
 
 |      Stat       |     Info      |     Info     |    Info     |     Info      |    Info     |
